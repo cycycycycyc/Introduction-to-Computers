@@ -1,2 +1,2 @@
 # Introduction-to-Computers
-資訊概論
+Tku資訊概論
